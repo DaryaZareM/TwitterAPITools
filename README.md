@@ -1,5 +1,5 @@
 # TwitterAPITools
-feature extract tools for crawled data with Twitter API
+feature extraction tools for crawled data with Twitter API
 
 
 

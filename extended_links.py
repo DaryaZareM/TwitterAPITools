@@ -30,5 +30,4 @@ def extended_link_extract(data):
       links.append([])
       pass
     
-  data['links']=np.array(links)
   return np.array(links)
